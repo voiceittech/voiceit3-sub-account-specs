@@ -3,7 +3,7 @@
 Sub accounts are fully independent developer accounts which have access to all of the same API calls as the master accounts that create them.
 With managed sub accounts, the funds used are subtracted from the master account. With unmanaged sub accounts, the account holder must still log into voiceit.io and enter in their credit card information.
 Both are created and deleted via API calls to API 3.
-Since they are full accounts, they can log into all VoiceIt related websites like [voiceit.io](voiceit.io) and [dashboard.voiceit.io](dashboard.voiceit.io).
+Since they are full accounts, they can log into all VoiceIt related websites like [voiceit.io](https://voiceit.io) and [dashboard.voiceit.io](https://dashboard.voiceit.io).
 
 ---
 
