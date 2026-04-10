@@ -49,7 +49,7 @@ $0
 
 ---
 
-## Create Unanaged Sub-Account
+## Create Unmanaged Sub-Account
 
 HTTP POST to `https://api.voiceit.io/subaccount/unmanaged`
 
@@ -149,3 +149,15 @@ curl -u "[MASTER API KEY]:[MASTER API TOKEN]" -X DELETE https://api.voiceit.io/s
 
 ### Cost
 Same as Other call type (see [our pricing page](https://voiceit.io/pricing))
+
+---
+
+## Support
+
+If you find this useful, please consider giving it a star on GitHub — it helps others discover the project!
+
+[![GitHub stars](https://img.shields.io/github/stars/voiceittech/voiceit3-sub-account-specs?style=social)](https://github.com/voiceittech/voiceit3-sub-account-specs/stargazers)
+
+## License
+
+voiceit3-sub-account-specs is available under the MIT license. See the LICENSE file for more info.
